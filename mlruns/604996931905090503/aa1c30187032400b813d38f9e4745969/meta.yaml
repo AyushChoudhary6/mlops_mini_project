@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/projects/mlops/pirojeccctt/app/mlruns/604996931905090503/aa1c30187032400b813d38f9e4745969/artifacts
+end_time: 1761722218586
+entry_point_name: ''
+experiment_id: '604996931905090503'
+lifecycle_stage: active
+run_id: aa1c30187032400b813d38f9e4745969
+run_name: thoughtful-sheep-618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761722214486
+status: 3
+tags: []
+user_id: ayush

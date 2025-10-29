@@ -1,0 +1,22 @@
+artifact_path: file:///D:/projects/mlops/pirojeccctt/app/mlruns/604996931905090503/models/m-51cdf49f1c6345308625f3c42f190c97/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.1
+model_id: m-51cdf49f1c6345308625f3c42f190c97
+model_size_bytes: 92249
+model_uuid: m-51cdf49f1c6345308625f3c42f190c97
+prompts: null
+run_id: aa1c30187032400b813d38f9e4745969
+utc_time_created: '2025-10-29 07:16:54.682217'
