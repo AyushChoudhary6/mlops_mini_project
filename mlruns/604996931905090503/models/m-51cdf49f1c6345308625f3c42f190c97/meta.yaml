@@ -1,0 +1,10 @@
+artifact_location: file:///D:/projects/mlops/pirojeccctt/app/mlruns/604996931905090503/models/m-51cdf49f1c6345308625f3c42f190c97/artifacts
+creation_timestamp: 1761722214618
+experiment_id: '604996931905090503'
+last_updated_timestamp: 1761722218560
+model_id: m-51cdf49f1c6345308625f3c42f190c97
+model_type: null
+name: model
+source_run_id: aa1c30187032400b813d38f9e4745969
+status: 2
+status_message: null
