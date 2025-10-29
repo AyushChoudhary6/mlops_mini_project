@@ -8,7 +8,7 @@ MODEL_PATH = "models/iris_rf.pkl"
 
 app = FastAPI(title="Iris Model API")
 
-
+# Prometheus metrics
 REQUEST_COUNT = Counter("request_count", "API request count", ["endpoint"])
 REQUEST_LATENCY = Summary("request_latency_seconds", "Request latency", ["endpoint"])
 
